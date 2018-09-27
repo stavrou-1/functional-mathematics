@@ -1,0 +1,24 @@
+{
+  "name": "npm-maths-1",
+  "version": "1.0.1",
+  "description": "npm package containing useful math modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stavrou-1/functional-mathematics"
+  },
+  "keywords": [
+    "npm",
+    "math",
+    "package"
+  ],
+  "author": " <stav0049@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stavrou-1/functional-mathematics/issues"
+  },
+  "homepage": "https://github.com/stavrou-1/functional-mathematics#readme"
+}
